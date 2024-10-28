@@ -1,4 +1,10 @@
-# Campogram IA - FIFA 14
+# Campogram AI - FIFA 14
+
+<p>
+  <a href="https://github.com/ProjectIA-Team/CampogramFIFA/blob/main/imagem_summit.png">
+    <img src="imagem_summit.png" alt="umc_summit">
+  </a>
+</p>
 
 ## Descrição do Projeto
 
