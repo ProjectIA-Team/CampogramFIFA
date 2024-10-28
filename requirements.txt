@@ -1,0 +1,20 @@
+**Inicialmente, realize o download do seguinte Dataset: "fifa14_gold 1" **
+Na aba "Downloads" dentro do nosso GitHub: "https://github.com/ProjectIA-Team/CampogramFIFA"
+
+**Aplique dentro do Google Colab**
+Na aba "Arquivos" -> "Fazer upload para armazenamento de sessão"
+
+
+**No tópico seguinte são os imports, já detalhados no Google Colab:  "UMC_Summit_CampogramIA" **
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.preprocessing import StandardScaler
+from sklearn.svm import SVC
+from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
+from sklearn.inspection import permutation_importance
+from sklearn.preprocessing import LabelEncoder, OneHotEncoder, OrdinalEncoder
+
